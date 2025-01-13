@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 0;
+    padding: 20px;
+    color: white;
+}
+
+.container p {
+    font-size: 24px;
+}
+
+.container .right{
+    display: flex;
+    gap: 20px;
+}
